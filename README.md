@@ -1,2 +1,1 @@
-# Natiatest3-Portfolio
-Manual QA Engineer Portfolio showcasing testing documentation
+(U+25CF) ჩემს შესახებ
