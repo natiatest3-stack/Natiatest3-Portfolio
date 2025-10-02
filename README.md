@@ -5,7 +5,7 @@
  - თულები:დბფკად
  - საკონტაქტო: 789078, ჰდფჯს
 
-[Skills](#more about my skills)
+[Skills] (#more about my skills)
 
 [there is my Linkdin](https://dressup.ge)
 
